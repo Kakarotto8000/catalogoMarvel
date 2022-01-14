@@ -1,0 +1,22 @@
+img.mat-card-image {
+  min-height: 374px;
+  max-height: 374px;
+
+  }
+
+
+
+mat-card{
+  vertical-align: top;
+  display: table-cell;
+  float: left;
+  max-width: 25vw;
+  width: 20vw;
+ margin-left: 10px;
+ margin-bottom:10px;
+}
+
+
+
+
+
